@@ -87,7 +87,7 @@ const App =() => {
   
         </ul>
 
-       <button className=" justify-center mt-5 mb-10 mx-auto border-solid border-2 border-sky-500 bg-blue-500" type="submit" ><p className='mx-auto px-3 py-2 text-white'><b>Submit</b></p></button>
+       <button className=" justify-center ml-20 mt-5 mb-10 border-solid border-2 border-sky-500 bg-blue-500" type="submit" ><p className='px-3 py-2 text-white'><b>Submit</b></p></button>
       </form>
     </div>
     </div>
