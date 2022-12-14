@@ -74,7 +74,7 @@ const App =() => {
                   {isChecked && c.id===2 && <input type = "text" name="path" placeholder='Enter the name of dbuser' id="dbuser"/>}
                   {isChecked1 && c.id===1 && <p> Please mention the remote branch name of ModelN:modeln57 git repo</p>}
                   {isChecked1 && c.id===1 && <input type = "text" name="path" placeholder='Enter the remote branch ' id="br1"/>}
-                  {isChecked1 && c.id===1 && <p> Please mention the locale branch name of ModelN:modeln57 o</p>}
+                  {isChecked1 && c.id===1 && <p> Please mention the local branch name of ModelN:modeln57 </p>}
                   {isChecked1 && c.id===1 && <input type = "text" name="path" placeholder='Enter the local branch ' id="br2"/>}
                   
                 </li>
@@ -95,7 +95,7 @@ const App =() => {
 
 </div>
  <div>
- <footer className="mx-auto text-center bg-blue-500">
+ <footer className="mx-auto text-center bg-blue-300">
        <h4>Created by Triwizards Team - Model N Novation</h4>
         <h2> For any Issues or queries Please mail to :</h2> <p><a href='mailto:vbuddarapu@modeln.com'> Model N Helpcenter</a></p>
     </footer></div>
